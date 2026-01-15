@@ -49,20 +49,6 @@ HTTP requests and responses were additionally inspected using Burp Suite Communi
 Evidence:
 /screenshot/burp_suite_testing.png
 
-## Project Structure
-webapp-security-lab/
-├── report/
-│   ├── sql-injection.md
-│   ├── sql-injection-fix.md
-│   ├── xss.md
-│   └── xss_remedy.md
-├── screenshots/
-│   ├── sql-injection-admin-login.png
-|   ├── burp_suite_testing.png
-|   ├── used_credentials.png
-│   └── xss_proof.png
-└── README.md
-
 ## Ethical Disclaimer
 All testing was conducted against a deliberately vulnerable application running locally.  
 No real systems, users, or data were targeted.  
